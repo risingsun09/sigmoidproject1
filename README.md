@@ -1,2 +1,2 @@
 # sigmoidproject1
-It is a task project 
+This project is completely done on HTML, CSS and JS.
