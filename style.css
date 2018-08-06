@@ -1,0 +1,22 @@
+.fixed-header, .fixed-footer{
+        width: 100%;
+        position: fixed;        
+        background: lightblue;
+        padding: 10px 0;
+        color: #fff;
+    }
+    .fixed-header{
+        top: 0;
+    }
+    .fixed-footer{
+        bottom: 0;
+    } 
+.block{color:blue; margin:35px; margin-top:100px;border: 2px solid black; float:left;} 
+
+#info1{text-align: left; float: left; margin:20px;}
+#info2{text-align: center; float: left; margin:20px;}
+#info3{text-align: right; float: left; margin:20px;}
+
+#doc{text-align: center;}
+
+
